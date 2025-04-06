@@ -1,0 +1,1 @@
+Tic-Tac-Toe is a classic two-player game where you try to get three of your symbols in a row either X's or O's on a 3x3 grid. Players take turns placing their symbol in empty squares. You win by lining up three of your symbols horizontally, vertically, or diagonally before your opponent does!
